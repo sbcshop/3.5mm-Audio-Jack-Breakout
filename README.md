@@ -7,8 +7,8 @@ This github contains hardware design files for 3.5mm Audio jack breakout.
 ### Pinouts:
 <img src="" width="492" height="161">
 
-1)	Pitch 0.1” Header Breakout
-2)	3.5mm Audio Jack
+- (1) Pitch 0.1” Header Breakout
+- (2) 3.5mm Audio Jack
 
 
 ### Repository Contents:
