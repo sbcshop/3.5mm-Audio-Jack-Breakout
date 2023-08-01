@@ -1,11 +1,13 @@
 # 3.5mm-Audio-Jack-Breakout
-
+<img src="https://github.com/sbcshop/3.5mm-Audio-Jack-Breakout/blob/main/images/BANNER.jpg" >
 3.5mm Audio jack breakout features standard 0.1’’ Header breakout of TRRS (Tip, Ring, Ring, Sleeve) audio pins of 3.5mm Jack. A TRRS 3.5mm audio jack breakout allows access to four audio channels: left audio, right audio, microphone input, and ground.
+
+With its versatility and ease of use, the 3.5mm jack breakout serves as an essential tool for audio experimentation, prototyping, and custom audio solutions in various applications.
 
 This github contains hardware design files for 3.5mm Audio jack breakout.
 
 ### Pinouts:
-<img src="" width="492" height="161">
+<img src="https://github.com/sbcshop/3.5mm-Audio-Jack-Breakout/blob/main/images/PINOUT.jpg" >
 
 - (1) Pitch 0.1” Header Breakout
 - (2) 3.5mm Audio Jack
